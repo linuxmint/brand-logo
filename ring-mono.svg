@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="260"
-   height="260"
-   viewBox="0 0 260 260"
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
    id="svg2"
    version="1.1"
    inkscape:version="1.1 (1:1.1+202105261517+ce6663b3b7)"
@@ -30,12 +30,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="25.75"
-     inkscape:cy="126.75"
+     inkscape:zoom="3.4101562"
+     inkscape:cx="108.93929"
+     inkscape:cy="128"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
-     showgrid="false"
+     showgrid="true"
      inkscape:window-width="506"
      inkscape:window-height="546"
      inkscape:window-x="512"
@@ -57,8 +57,8 @@
        spacingx="10"
        spacingy="10"
        empspacing="2"
-       originx="0"
-       originy="15"
+       originx="58"
+       originy="53"
        empcolor="#ff3f3f"
        empopacity="0.25098039" />
   </sodipodi:namedview>
@@ -115,14 +115,14 @@
      inkscape:label="Layer 1"
      transform="translate(-61.999992,-72.499992)">
     <circle
-       style="fill:none;stroke:#505050;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#505050;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path32"
-       cx="192"
-       cy="202.5"
-       r="120.00001" />
+       cx="189.99998"
+       cy="200.49998"
+       r="118" />
     <path
-       style="color:#000000;fill:#505050;stroke-width:1;-inkscape-stroke:none;stroke:none;fill-opacity:1"
-       d="m 122,137.5 v 90 c 0,21.97292 18.02708,40 40,40 h 60 c 21.97292,0 40,-18.02708 40,-40 v -50 c 0,-16.45008 -13.54992,-30 -30,-30 -7.68494,0 -14.66678,3.03762 -20,7.86622 -5.33322,-4.8286 -12.31506,-7.86622 -20,-7.86622 -16.45008,0 -30,13.54992 -30,30 v 50 h 20 v -50 c 0,-5.64128 4.35872,-10 10,-10 5.64128,0 10,4.35872 10,10 v 50 h 20 v -50 c 0,-5.64128 4.35872,-10 10,-10 5.64128,0 10,4.35872 10,10 v 50 c 0,11.16414 -8.83586,20 -20,20 h -60 c -11.16414,0 -20,-8.83586 -20,-20 v -90 z"
+       style="color:#000000;fill:#505050;fill-opacity:1;stroke:none;stroke-width:1;-inkscape-stroke:none"
+       d="m 119.99999,135.49999 v 90 c 0,21.97292 18.02708,40 40,40 h 60 c 21.97292,0 40,-18.02708 40,-40 v -50 c 0,-16.45008 -13.54992,-30 -30,-30 -7.68494,0 -14.66678,3.03762 -20,7.86622 -5.33322,-4.8286 -12.31506,-7.86622 -20,-7.86622 -16.45008,0 -30,13.54992 -30,30 v 50 h 20 v -50 c 0,-5.64128 4.35872,-10 10,-10 5.64128,0 10,4.35872 10,10 v 50 h 20 v -50 c 0,-5.64128 4.35872,-10 10,-10 5.64128,0 10,4.35872 10,10 v 50 c 0,11.16414 -8.83586,20 -20,20 h -60 c -11.16414,0 -20,-8.83586 -20,-20 v -90 z"
        id="path4193"
        sodipodi:nodetypes="csssssscssccsssccssssssscc" />
   </g>

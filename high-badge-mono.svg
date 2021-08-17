@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
-   width="260"
-   height="260"
-   viewBox="0 0 260 260"
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
    id="svg2"
    version="1.1"
    inkscape:version="1.1 (1:1.1+202105261517+ce6663b3b7)"
-   sodipodi:docname="high-badge-rev.svg"
-   inkscape:export-filename=""
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
+   sodipodi:docname="high-badge-mono.svg"
+   inkscape:export-filename="/home/sebastien/Sources/LinuxMint-logo-Y/LM-logo-Y-01b(singleline).png"
+   inkscape:export-xdpi="180"
+   inkscape:export-ydpi="180"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -18,22 +20,22 @@
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title
-     id="title3343">LinuxMint logo</title>
+     id="title3343">Linux Mint logo</title>
   <defs
      id="defs4" />
   <sodipodi:namedview
      id="base"
-     pagecolor="#cccccc"
+     pagecolor="#c0c0c0"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="-50.75"
-     inkscape:cy="123.25"
+     inkscape:cx="127.75"
+     inkscape:cy="127.75"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="true"
+     inkscape:current-layer="layer3"
+     showgrid="false"
      inkscape:window-width="506"
      inkscape:window-height="546"
      inkscape:window-x="512"
@@ -46,29 +48,20 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     showborder="false"
+     showborder="true"
      inkscape:showpageshadow="false"
-     inkscape:document-rotation="0"
-     guidecolor="#0000ff"
-     guideopacity="0.25098039"
-     guidehicolor="#ff0000"
-     guidehiopacity="0.25098039"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     borderlayer="true">
     <inkscape:grid
        type="xygrid"
        id="grid4139"
        spacingx="13"
        spacingy="13"
        empspacing="2"
-       originx="0"
-       originy="212"
-       empcolor="#ff0000"
-       empopacity="0.14901961"
-       color="#0000ff"
-       opacity="0.10196078" />
+       originx="37"
+       originy="210"
+       empcolor="#ff3f3f"
+       empopacity="0.25098039" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -78,23 +71,23 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>LinuxMint logo</dc:title>
+        <dc:title>Linux Mint logo</dc:title>
         <dc:date>2018-10-26</dc:date>
         <dc:creator>
           <cc:Agent>
-            <dc:title />
+            <dc:title>copyright 2018 Sebastien Bouchard</dc:title>
           </cc:Agent>
         </dc:creator>
         <dc:publisher>
           <cc:Agent>
-            <dc:title>LinuxMint</dc:title>
+            <dc:title>Linux Mint</dc:title>
           </cc:Agent>
         </dc:publisher>
-        <dc:description>2018 LinuxMint logo, re-created from 2007 LinuxMint logo.</dc:description>
-        <dc:source />
+        <dc:description>2018 Linux Mint logo, modified from 2007 Linux Mint logo.</dc:description>
+        <dc:source>copyright 2007 Carlos Porto, copyright 2007 Clement Lefebvre</dc:source>
         <dc:subject>
           <rdf:Bag>
-            <rdf:li>LinuxMint</rdf:li>
+            <rdf:li>Linux Mint</rdf:li>
             <rdf:li>logo</rdf:li>
           </rdf:Bag>
         </dc:subject>
@@ -105,7 +98,7 @@
             <dc:title>SPDX-License-Identifier: GPL-3.0-or-later</dc:title>
           </cc:Agent>
         </dc:rights>
-        <dc:identifier />
+        <dc:identifier>N/A</dc:identifier>
         <dc:coverage>Worldwide</dc:coverage>
         <dc:contributor>
           <cc:Agent>
@@ -119,14 +112,12 @@
   </metadata>
   <g
      inkscape:groupmode="layer"
-     id="layer1"
+     id="layer3"
      inkscape:label="Layer 1"
-     style="display:inline"
-     transform="translate(2,2)">
+     transform="translate(-82.000008,-90.000008)">
     <path
-       id="path1393"
-       style="fill:#505050;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
-       d="M 130 0 A 130 130 0 0 0 65 17.416016 L 65 160 C 65 174.51338 76.48662 186 91 186 L 169 186 C 183.51338 186 195 174.51338 195 160 L 195 95 C 195 87.66634 189.33366 82 182 82 C 174.66634 82 169 87.66634 169 95 L 169 160 L 143 160 L 143 95 C 143 87.66634 137.33366 82 130 82 C 122.66634 82 117 87.66634 117 95 L 117 160 L 91 160 L 91 95 C 91 73.6149 108.6149 56 130 56 C 139.99042 56 149.06681 59.949382 156 66.226562 C 162.93319 59.949383 172.00958 56 182 56 C 203.3851 56 221 73.6149 221 95 L 221 160 C 221 188.5648 197.5648 212 169 212 L 91 212 C 62.4352 212 39 188.5648 39 160 L 39 37.265625 A 130 130 0 0 0 0 130 A 130 130 0 0 0 130 260 A 130 130 0 0 0 260 130 A 130 130 0 0 0 130 0 z "
-       transform="translate(-2,-2)" />
+       id="path40"
+       style="fill:#505050;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1"
+       d="m 210.00001,90.000008 a 128,128 0 0 0 -65,17.816402 v 140.1836 c 0,14.51337 11.48662,26 26,26 h 78 c 14.51337,0 26,-11.48663 26,-26 v -65 c 0,-7.33367 -5.66634,-13 -13,-13 -7.33367,0 -13,5.66633 -13,13 v 65 h -26 v -65 c 0,-7.33367 -5.66634,-13 -13,-13 -7.33367,0 -13,5.66633 -13,13 v 65 h -26 v -65 c 0,-21.38511 17.61489,-39 39,-39 9.99041,0 19.06682,3.94938 26,10.22656 6.93318,-6.27718 16.00958,-10.22656 26,-10.22656 21.3851,0 39,17.61489 39,39 v 65 c 0,28.56479 -23.43521,52 -52,52 h -78 c -28.5648,0 -52,-23.43521 -52,-52 V 128.04884 a 128,128 0 0 0 -37.000002,89.95117 128,128 0 0 0 128.000002,128 128,128 0 0 0 128,-128 128,128 0 0 0 -128,-128.000002 z" />
   </g>
 </svg>
