@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="220"
-   height="220"
-   viewBox="0 0 220 220"
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
    id="svg2"
    version="1.1"
    inkscape:version="1.1 (1:1.1+202105261517+ce6663b3b7)"
-   sodipodi:docname="logo-badge-low.svg"
+   sodipodi:docname="badge.svg"
    inkscape:export-filename="/home/sebastien/Sources/LinuxMint-logo-Y/LM-logo-Y-01b(singleline).png"
    inkscape:export-xdpi="180"
    inkscape:export-ydpi="180"
@@ -30,12 +30,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="110.25"
-     inkscape:cy="110"
+     inkscape:zoom="3.4101562"
+     inkscape:cx="128"
+     inkscape:cy="128"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
-     showgrid="false"
+     showgrid="true"
      inkscape:window-width="506"
      inkscape:window-height="546"
      inkscape:window-x="512"
@@ -55,11 +55,11 @@
     <inkscape:grid
        type="xygrid"
        id="grid4139"
-       spacingx="5"
-       spacingy="5"
+       spacingx="12"
+       spacingy="12"
        empspacing="2"
-       originx="0"
-       originy="0"
+       originx="44"
+       originy="38"
        empcolor="#ff3f3f"
        empopacity="0.25098039" />
   </sodipodi:namedview>
@@ -118,12 +118,12 @@
     <circle
        style="fill:#86be43;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
        id="path40"
-       cx="192"
-       cy="200"
-       r="109.99999" />
+       cx="210"
+       cy="218"
+       r="128" />
     <path
-       style="color:#000000;fill:#505050;stroke-width:1;-inkscape-stroke:none"
-       d="m 122,135 v 90 c 0,21.97292 18.02708,40 40,40 h 60 c 21.97292,0 40,-18.02708 40,-40 v -50 c 0,-16.45008 -13.54992,-30 -30,-30 -7.68494,0 -14.66678,3.03762 -20,7.86622 C 206.66678,148.03762 199.68494,145 192,145 c -16.45008,0 -30,13.54992 -30,30 v 50 h 20 v -50 c 0,-5.64128 4.35872,-10 10,-10 5.64128,0 10,4.35872 10,10 v 50 h 20 v -50 c 0,-5.64128 4.35872,-10 10,-10 5.64128,0 10,4.35872 10,10 v 50 c 0,11.16414 -8.83586,20 -20,20 h -60 c -11.16414,0 -20,-8.83586 -20,-20 v -90 z"
+       style="color:#000000;fill:#505050;stroke-width:1.2;-inkscape-stroke:none"
+       d="m 126.00001,140.00001 v 108 c 0,26.3675 21.63249,48 48,48 h 72 c 26.3675,0 48,-21.6325 48,-48 v -60 c 0,-19.7401 -16.25991,-36 -36,-36 -9.22193,0 -17.60014,3.64514 -24,9.43946 -6.39986,-5.79432 -14.77808,-9.43946 -24,-9.43946 -19.7401,0 -36,16.2599 -36,36 v 60 h 24 v -60 c 0,-6.76954 5.23046,-12 12,-12 6.76953,0 12,5.23046 12,12 v 60 h 24 v -60 c 0,-6.76954 5.23046,-12 12,-12 6.76953,0 12,5.23046 12,12 v 60 c 0,13.39696 -10.60304,24 -24,24 h -72 c -13.39697,0 -24,-10.60304 -24,-24 v -108 z"
        id="path4193"
        sodipodi:nodetypes="csssssscssccsssccssssssscc" />
   </g>

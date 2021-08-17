@@ -8,7 +8,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="1.1 (1:1.1+202105261517+ce6663b3b7)"
-   sodipodi:docname="simple-mono.svg"
+   sodipodi:docname="high-badge-src.svg"
    inkscape:export-filename="/home/sebastien/Sources/LinuxMint-logo-Y/LM-logo-Y-01b(singleline).png"
    inkscape:export-xdpi="180"
    inkscape:export-ydpi="180"
@@ -30,12 +30,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="103.75"
-     inkscape:cy="69.75"
+     inkscape:zoom="1.5"
+     inkscape:cx="-90.333333"
+     inkscape:cy="127.66667"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
-     showgrid="true"
+     showgrid="false"
      inkscape:window-width="506"
      inkscape:window-height="546"
      inkscape:window-x="512"
@@ -50,15 +50,16 @@
      fit-margin-bottom="0"
      showborder="true"
      inkscape:showpageshadow="false"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     borderlayer="true">
     <inkscape:grid
        type="xygrid"
        id="grid4139"
-       spacingx="18"
-       spacingy="18"
+       spacingx="5"
+       spacingy="5"
        empspacing="2"
-       originx="2"
-       originy="29"
+       originx="0"
+       originy="0"
        empcolor="#ff3f3f"
        empopacity="0.25098039" />
   </sodipodi:namedview>
@@ -113,10 +114,16 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Layer 1"
-     transform="translate(-122,-137.5)">
+     transform="translate(-82.000008,-90.000008)">
+    <circle
+       style="fill:#86be43;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path40"
+       cx="210"
+       cy="218"
+       r="128" />
     <path
-       style="color:#000000;fill:#505050;fill-opacity:1;stroke:none;stroke-width:1;-inkscape-stroke:none"
-       d="m 124,148.5 v 162 c 0,39.55126 32.44874,72 72,72 h 108 c 39.55126,0 72,-32.44874 72,-72 v -90 c 0,-29.61014 -24.38986,-54 -54,-54 -13.83289,0 -26.4002,5.46772 -36,14.1592 -9.5998,-8.69148 -22.16711,-14.1592 -36,-14.1592 -29.61014,0 -54,24.38986 -54,54 v 90 h 36 v -90 c 0,-10.1543 7.8457,-18 18,-18 10.1543,0 18,7.8457 18,18 v 90 h 36 v -90 c 0,-10.1543 7.8457,-18 18,-18 10.1543,0 18,7.8457 18,18 v 90 c 0,20.09545 -15.90455,36 -36,36 H 196 c -20.09545,0 -36,-15.90455 -36,-36 v -162 z"
+       style="color:#000000;fill:#505050;stroke-width:1.3;-inkscape-stroke:none"
+       d="M 119.00001,90.000008 V 248.00001 c 0,28.56479 23.4352,52 52,52 h 78 c 28.56479,0 52,-23.43521 52,-52 v -65 c 0,-21.38511 -17.6149,-39 -39,-39 -9.99042,0 -19.06682,3.9489 -26,10.22608 -6.93318,-6.27718 -16.00959,-10.22608 -26,-10.22608 -21.38511,0 -39,17.61489 -39,39 v 65 h 26 v -65 c 0,-7.33367 5.66633,-13 13,-13 7.33366,0 13,5.66633 13,13 v 65 h 26 v -65 c 0,-7.33367 5.66633,-13 13,-13 7.33366,0 13,5.66633 13,13 v 65 c 0,14.51337 -11.48663,26 -26,26 h -78 c -14.51338,0 -26,-11.48663 -26,-26 V 90.000008 Z"
        id="path4193"
        sodipodi:nodetypes="csssssscssccsssccssssssscc" />
   </g>

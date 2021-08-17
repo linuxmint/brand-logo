@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
-   width="260"
-   height="260"
-   viewBox="0 0 260 260"
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
    id="svg2"
    version="1.1"
    inkscape:version="1.1 (1:1.1+202105261517+ce6663b3b7)"
-   sodipodi:docname="logo-badge-high.svg"
-   inkscape:export-filename=""
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
+   sodipodi:docname="high-badge.svg"
+   inkscape:export-filename="/home/sebastien/Sources/LinuxMint-logo-Y/LM-logo-Y-01b(singleline).png"
+   inkscape:export-xdpi="180"
+   inkscape:export-ydpi="180"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -18,21 +20,21 @@
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title
-     id="title3343">LinuxMint logo</title>
+     id="title3343">Linux Mint logo</title>
   <defs
      id="defs4" />
   <sodipodi:namedview
      id="base"
-     pagecolor="#cccccc"
+     pagecolor="#c0c0c0"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="52.75"
-     inkscape:cy="123.25"
+     inkscape:zoom="3.4101562"
+     inkscape:cx="128"
+     inkscape:cy="128"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      showgrid="true"
      inkscape:window-width="506"
      inkscape:window-height="546"
@@ -46,29 +48,20 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     showborder="false"
+     showborder="true"
      inkscape:showpageshadow="false"
-     inkscape:document-rotation="0"
-     guidecolor="#0000ff"
-     guideopacity="0.25098039"
-     guidehicolor="#ff0000"
-     guidehiopacity="0.25098039"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     borderlayer="true">
     <inkscape:grid
        type="xygrid"
        id="grid4139"
        spacingx="13"
        spacingy="13"
        empspacing="2"
-       originx="0"
-       originy="212"
-       empcolor="#ff0000"
-       empopacity="0.14901961"
-       color="#0000ff"
-       opacity="0.10196078" />
+       originx="37"
+       originy="210"
+       empcolor="#ff3f3f"
+       empopacity="0.25098039" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -78,23 +71,23 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>LinuxMint logo</dc:title>
+        <dc:title>Linux Mint logo</dc:title>
         <dc:date>2018-10-26</dc:date>
         <dc:creator>
           <cc:Agent>
-            <dc:title />
+            <dc:title>copyright 2018 Sebastien Bouchard</dc:title>
           </cc:Agent>
         </dc:creator>
         <dc:publisher>
           <cc:Agent>
-            <dc:title>LinuxMint</dc:title>
+            <dc:title>Linux Mint</dc:title>
           </cc:Agent>
         </dc:publisher>
-        <dc:description>2018 LinuxMint logo, re-created from 2007 LinuxMint logo.</dc:description>
-        <dc:source />
+        <dc:description>2018 Linux Mint logo, modified from 2007 Linux Mint logo.</dc:description>
+        <dc:source>copyright 2007 Carlos Porto, copyright 2007 Clement Lefebvre</dc:source>
         <dc:subject>
           <rdf:Bag>
-            <rdf:li>LinuxMint</rdf:li>
+            <rdf:li>Linux Mint</rdf:li>
             <rdf:li>logo</rdf:li>
           </rdf:Bag>
         </dc:subject>
@@ -105,7 +98,7 @@
             <dc:title>SPDX-License-Identifier: GPL-3.0-or-later</dc:title>
           </cc:Agent>
         </dc:rights>
-        <dc:identifier />
+        <dc:identifier>N/A</dc:identifier>
         <dc:coverage>Worldwide</dc:coverage>
         <dc:contributor>
           <cc:Agent>
@@ -119,22 +112,22 @@
   </metadata>
   <g
      inkscape:groupmode="layer"
-     id="layer1"
+     id="layer3"
      inkscape:label="Layer 1"
-     style="display:inline"
-     transform="translate(2,2)">
+     transform="translate(-82.000008,-90.000008)">
     <g
-       id="g2994">
+       id="g1427">
       <circle
-         style="fill:#86be43;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
-         id="circle1393"
-         cx="128"
-         cy="128"
-         r="130" />
+         style="fill:#ffffff;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1"
+         id="circle553"
+         cx="210"
+         cy="218"
+         r="128" />
       <path
-         id="path2935"
-         style="fill:#505050;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
-         d="M 63,15.751953 A 130,130 0 0 0 37,35.619141 V 158 c 0,28.5648 23.4352,52 52,52 h 78 c 28.5648,0 52,-23.4352 52,-52 V 93 C 219,71.6149 201.3851,54 180,54 170.00958,54 160.93319,57.949383 154,64.226562 147.06681,57.949383 137.99042,54 128,54 106.6149,54 89,71.6149 89,93 v 65 h 26 V 93 c 0,-7.33366 5.66634,-13 13,-13 7.33366,0 13,5.66634 13,13 v 65 h 26 V 93 c 0,-7.33366 5.66634,-13 13,-13 7.33366,0 13,5.66634 13,13 v 65 c 0,14.51338 -11.48662,26 -26,26 H 89 C 74.48662,184 63,172.51338 63,158 Z" />
+         id="path40"
+         style="fill:#86be43;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+         d="M 128 0 A 128 128 0 0 0 63 17.816406 L 63 158 C 63 172.51337 74.48662 184 89 184 L 167 184 C 181.51337 184 193 172.51337 193 158 L 193 93 C 193 85.66633 187.33366 80 180 80 C 172.66633 80 167 85.66633 167 93 L 167 158 L 141 158 L 141 93 C 141 85.66633 135.33366 80 128 80 C 120.66633 80 115 85.66633 115 93 L 115 158 L 89 158 L 89 93 C 89 71.61489 106.61489 54 128 54 C 137.99041 54 147.06682 57.949383 154 64.226562 C 160.93318 57.949382 170.00958 54 180 54 C 201.3851 54 219 71.61489 219 93 L 219 158 C 219 186.56479 195.56479 210 167 210 L 89 210 C 60.4352 210 37 186.56479 37 158 L 37 38.048828 A 128 128 0 0 0 0 128 A 128 128 0 0 0 128 256 A 128 128 0 0 0 256 128 A 128 128 0 0 0 128 0 z "
+         transform="translate(82.000008,90.000008)" />
     </g>
   </g>
 </svg>
