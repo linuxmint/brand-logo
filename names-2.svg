@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="768"
+   height="1024"
+   viewBox="0 0 203.2 270.93335"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (1:1.1+202105261517+ce6663b3b7)"
+   sodipodi:docname="names-2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     width="1024px"
+     inkscape:zoom="1"
+     inkscape:cx="699.5"
+     inkscape:cy="383.5"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="96"
+       width="67.733337"
+       height="67.733337"
+       xlink:href="badge.svg"
+       id="image887"
+       x="5.291667"
+       y="5.291667" />
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="96"
+       width="67.733337"
+       height="67.733337"
+       xlink:href="badge-mono.svg"
+       id="image983"
+       x="130.175"
+       y="5.291667" />
+  </g>
+</svg>
