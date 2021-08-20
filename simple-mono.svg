@@ -115,7 +115,7 @@
      inkscape:label="Layer 1"
      transform="translate(-122,-137.5)">
     <path
-       style="color:#000000;fill:#505050;fill-opacity:1;stroke:none;stroke-width:1;-inkscape-stroke:none"
+       style="color:#000000;fill:#505050;fill-opacity:1;stroke:none;stroke-width:0;-inkscape-stroke:none"
        d="m 124,148.5 v 162 c 0,39.55126 32.44874,72 72,72 h 108 c 39.55126,0 72,-32.44874 72,-72 v -90 c 0,-29.61014 -24.38986,-54 -54,-54 -13.83289,0 -26.4002,5.46772 -36,14.1592 -9.5998,-8.69148 -22.16711,-14.1592 -36,-14.1592 -29.61014,0 -54,24.38986 -54,54 v 90 h 36 v -90 c 0,-10.1543 7.8457,-18 18,-18 10.1543,0 18,7.8457 18,18 v 90 h 36 v -90 c 0,-10.1543 7.8457,-18 18,-18 10.1543,0 18,7.8457 18,18 v 90 c 0,20.09545 -15.90455,36 -36,36 H 196 c -20.09545,0 -36,-15.90455 -36,-36 v -162 z"
        id="path4193"
        sodipodi:nodetypes="csssssscssccsssccssssssscc" />
