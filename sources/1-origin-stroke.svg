@@ -116,7 +116,7 @@
      transform="translate(-80,-88)">
     <path
        id="path4193"
-       style="fill:none;fill-opacity:0.266667;stroke:#000000;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 170,138 c 0,-11.04569 -8.95431,-20 -20,-20 -11.04569,0 -20,8.95431 -20,20 v 50 M 90,88 v 100 c 0,16.56854 13.43146,30 30,30 20,0 40,0 60,0 16.56854,0 30,-13.43146 30,-30 v -50 c 0,-11.04569 -8.95431,-20 -20,-20 -11.04569,0 -20,8.95431 -20,20 v 50" />
   </g>
 </svg>
