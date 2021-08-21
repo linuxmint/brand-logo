@@ -24,7 +24,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="3.4101562"
      inkscape:cx="128"
-     inkscape:cy="127.85338"
+     inkscape:cy="128"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -38,12 +38,11 @@
   <g
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-271.59998)">
+     id="layer1">
     <g
        id="g1068"
        style="fill:#505050;fill-opacity:1;stroke-width:0.0992187"
-       transform="matrix(5.8910702,0,0,5.891066,-58.005103,-766.14504)">
+       transform="matrix(5.8910702,0,0,5.891066,-58.005102,-1037.7445)">
       <g
          style="fill:#505050;fill-opacity:1;stroke:none;stroke-width:0.0992187"
          transform="matrix(0.22163909,0,0,0.22163909,-7.7510456,130.86817)"

@@ -30,9 +30,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="-138"
-     inkscape:cy="69.25"
+     inkscape:zoom="6.2357143"
+     inkscape:cx="70"
+     inkscape:cy="70"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="true"
@@ -65,11 +65,19 @@
   <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="Layer 1"
-     transform="translate(-122,-130)">
+     inkscape:label="Layer 1">
     <path
-       style="color:#000000;fill:#000000;stroke:none;stroke-width:0;-inkscape-stroke:none;fill-opacity:1"
-       d="m 122,130 v 100 c 0,21.97292 18.02708,40 40,40 h 60 c 21.97292,0 40,-18.02708 40,-40 v -50 c 0,-16.45008 -13.54992,-30 -30,-30 -7.68494,0 -14.66678,3.03762 -20,7.86622 C 206.66678,153.03762 199.68494,150 192,150 c -16.45008,0 -30,13.54992 -30,30 v 50 h 20 v -50 c 0,-5.64128 4.35872,-10 10,-10 5.64128,0 10,4.35872 10,10 v 50 h 20 v -50 c 0,-5.64128 4.35872,-10 10,-10 5.64128,0 10,4.35872 10,10 v 50 c 0,11.16414 -8.83586,20 -20,20 h -60 c -11.16414,0 -20,-8.83586 -20,-20 V 130 Z"
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;-inkscape-stroke:none"
+       d="m 0,0 v 100 c 0,21.97292 18.02708,40 40,40 h 60 c 21.97292,0 40,-18.02708 40,-40 V 50 C 140,33.54992 126.45008,20 110,20 102.31506,20 95.33322,23.03762 90,27.86622 84.66678,23.03762 77.68494,20 70,20 53.54992,20 40,33.54992 40,50 v 50 H 60 V 50 c 0,-5.64128 4.35872,-10 10,-10 5.64128,0 10,4.35872 10,10 v 50 h 20 V 50 c 0,-5.64128 4.35872,-10 10,-10 5.64128,0 10,4.35872 10,10 v 50 c 0,11.16414 -8.83586,20 -20,20 H 40 C 28.83586,120 20,111.16414 20,100 V 0 Z"
        id="path4193" />
   </g>
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Linux Mint logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
 </svg>

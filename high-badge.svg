@@ -30,9 +30,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.4101562"
-     inkscape:cx="29.764033"
-     inkscape:cy="128"
+     inkscape:zoom="2"
+     inkscape:cx="127.75"
+     inkscape:cy="127.75"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="true"
@@ -66,21 +66,25 @@
   <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="Layer 1"
-     transform="translate(-82.000008,-90.000008)">
-    <g
-       id="g1427">
-      <circle
-         style="fill:#505050;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1"
-         id="circle553"
-         cx="210"
-         cy="218"
-         r="128" />
-      <path
-         id="path40"
-         style="fill:#86be43;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
-         d="M 128 0 A 128 128 0 0 0 63 17.816406 L 63 158 C 63 172.51337 74.48662 184 89 184 L 167 184 C 181.51337 184 193 172.51337 193 158 L 193 93 C 193 85.66633 187.33366 80 180 80 C 172.66633 80 167 85.66633 167 93 L 167 158 L 141 158 L 141 93 C 141 85.66633 135.33366 80 128 80 C 120.66633 80 115 85.66633 115 93 L 115 158 L 89 158 L 89 93 C 89 71.61489 106.61489 54 128 54 C 137.99041 54 147.06682 57.949383 154 64.226562 C 160.93318 57.949382 170.00958 54 180 54 C 201.3851 54 219 71.61489 219 93 L 219 158 C 219 186.56479 195.56479 210 167 210 L 89 210 C 60.4352 210 37 186.56479 37 158 L 37 38.048828 A 128 128 0 0 0 0 128 A 128 128 0 0 0 128 256 A 128 128 0 0 0 256 128 A 128 128 0 0 0 128 0 z "
-         transform="translate(82.000008,90.000008)" />
-    </g>
+     inkscape:label="Layer 1">
+    <circle
+       style="fill:#505050;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle553"
+       cx="128"
+       cy="128"
+       r="128" />
+    <path
+       id="path40"
+       style="fill:#86be43;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 128,0 A 128,128 0 0 0 63,17.816406 V 158 c 0,14.51337 11.48662,26 26,26 h 78 c 14.51337,0 26,-11.48663 26,-26 V 93 c 0,-7.33367 -5.66634,-13 -13,-13 -7.33367,0 -13,5.66633 -13,13 v 65 H 141 V 93 c 0,-7.33367 -5.66634,-13 -13,-13 -7.33367,0 -13,5.66633 -13,13 v 65 H 89 V 93 c 0,-21.38511 17.61489,-39 39,-39 9.99041,0 19.06682,3.949383 26,10.226562 C 160.93318,57.949382 170.00958,54 180,54 c 21.3851,0 39,17.61489 39,39 v 65 c 0,28.56479 -23.43521,52 -52,52 H 89 C 60.4352,210 37,186.56479 37,158 V 38.048828 A 128,128 0 0 0 0,128 128,128 0 0 0 128,256 128,128 0 0 0 256,128 128,128 0 0 0 128,0 Z" />
   </g>
+  <metadata
+     id="metadata28">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Linux Mint logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
 </svg>

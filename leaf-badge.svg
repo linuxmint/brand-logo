@@ -22,9 +22,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.84375"
+     inkscape:zoom="3.4101562"
      inkscape:cx="128"
-     inkscape:cy="127.82418"
+     inkscape:cy="128"
      inkscape:document-units="px"
      inkscape:current-layer="g1214"
      showgrid="false"
@@ -38,14 +38,13 @@
   <g
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-271.59998)">
+     id="layer1">
     <g
        id="g1214"
        transform="matrix(0.57255348,0,0,0.57255348,-62.771996,153.53453)">
       <g
          id="g969"
-         transform="matrix(10.07874,0,0,10.07874,-995.34918,-1872.1142)"
+         transform="matrix(10.07874,0,0,10.07874,-995.34917,-2346.4804)"
          style="stroke-width:0.0992187">
         <path
            id="rect1013-2"
