@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="256"
-   height="256"
-   viewBox="0 0 256 256"
+   width="140"
+   height="130"
+   viewBox="0 0 140 130"
    id="svg2"
    version="1.1"
    inkscape:version="1.1 (1:1.1+202105261517+ce6663b3b7)"
-   sodipodi:docname="badge.svg"
+   sodipodi:docname="3-origin-path-low.svg"
    inkscape:export-filename="/home/sebastien/Sources/LinuxMint-logo-Y/LM-logo-Y-01b(singleline).png"
    inkscape:export-xdpi="180"
    inkscape:export-ydpi="180"
@@ -30,9 +30,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.4101562"
-     inkscape:cx="128"
-     inkscape:cy="128"
+     inkscape:zoom="6.7153846"
+     inkscape:cx="70.063001"
+     inkscape:cy="65"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="true"
@@ -50,16 +50,15 @@
      fit-margin-bottom="0"
      showborder="true"
      inkscape:showpageshadow="false"
-     inkscape:pagecheckerboard="0"
-     borderlayer="true">
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
        id="grid4139"
-       spacingx="12"
-       spacingy="12"
+       spacingx="10"
+       spacingy="10"
        empspacing="2"
-       originx="44"
-       originy="38"
+       originx="0"
+       originy="10"
        empcolor="#ff3f3f"
        empopacity="0.25098039" />
   </sodipodi:namedview>
@@ -67,20 +66,14 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Layer 1">
-    <circle
-       style="fill:#86be43;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
-       id="path40"
-       cx="128"
-       cy="128"
-       r="128" />
     <path
-       style="color:#000000;fill:#505050;stroke-width:0;-inkscape-stroke:none"
-       d="m 44.00001,50.00001 v 108 c 0,26.3675 21.63249,48 48,48 h 72 c 26.3675,0 48,-21.6325 48,-48 v -60 c 0,-19.7401 -16.25991,-36 -36,-36 -9.22193,0 -17.60014,3.64514 -24,9.43946 -6.39986,-5.79432 -14.77808,-9.43946 -24,-9.43946 -19.7401,0 -36,16.2599 -36,36 v 60 h 24 v -60 c 0,-6.76954 5.23046,-12 12,-12 6.76953,0 12,5.23046 12,12 v 60 h 24 v -60 c 0,-6.76954 5.23046,-12 12,-12 6.76953,0 12,5.23046 12,12 v 60 c 0,13.39696 -10.60304,24 -24,24 h -72 c -13.39697,0 -24,-10.60304 -24,-24 v -108 z"
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;-inkscape-stroke:none"
+       d="m 0,0 v 90 c 0,21.97292 18.02708,40 40,40 h 60 c 21.97292,0 40,-18.02708 40,-40 V 40 C 140,23.54992 126.45008,10 110,10 102.31506,10 95.33322,13.03762 90,17.86622 84.66678,13.03762 77.68494,10 70,10 53.54992,10 40,23.54992 40,40 V 90 H 60 V 40 c 0,-5.64128 4.35872,-10 10,-10 5.64128,0 10,4.35872 10,10 v 50 h 20 V 40 c 0,-5.64128 4.35872,-10 10,-10 5.64128,0 10,4.35872 10,10 v 50 c 0,11.16414 -8.83586,20 -20,20 H 40 C 28.83586,110 20,101.16414 20,90 V 0 Z"
        id="path4193"
        sodipodi:nodetypes="csssssscssccsssccssssssscc" />
   </g>
   <metadata
-     id="metadata153">
+     id="metadata25">
     <rdf:RDF>
       <cc:Work
          rdf:about="">

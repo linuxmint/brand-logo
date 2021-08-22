@@ -8,7 +8,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="1.1 (1:1.1+202105261517+ce6663b3b7)"
-   sodipodi:docname="badge.svg"
+   sodipodi:docname="high-badge-src.svg"
    inkscape:export-filename="/home/sebastien/Sources/LinuxMint-logo-Y/LM-logo-Y-01b(singleline).png"
    inkscape:export-xdpi="180"
    inkscape:export-ydpi="180"
@@ -55,11 +55,11 @@
     <inkscape:grid
        type="xygrid"
        id="grid4139"
-       spacingx="12"
-       spacingy="12"
+       spacingx="13"
+       spacingy="13"
        empspacing="2"
-       originx="44"
-       originy="38"
+       originx="37"
+       originy="210"
        empcolor="#ff3f3f"
        empopacity="0.25098039" />
   </sodipodi:namedview>
@@ -75,12 +75,12 @@
        r="128" />
     <path
        style="color:#000000;fill:#505050;stroke-width:0;-inkscape-stroke:none"
-       d="m 44.00001,50.00001 v 108 c 0,26.3675 21.63249,48 48,48 h 72 c 26.3675,0 48,-21.6325 48,-48 v -60 c 0,-19.7401 -16.25991,-36 -36,-36 -9.22193,0 -17.60014,3.64514 -24,9.43946 -6.39986,-5.79432 -14.77808,-9.43946 -24,-9.43946 -19.7401,0 -36,16.2599 -36,36 v 60 h 24 v -60 c 0,-6.76954 5.23046,-12 12,-12 6.76953,0 12,5.23046 12,12 v 60 h 24 v -60 c 0,-6.76954 5.23046,-12 12,-12 6.76953,0 12,5.23046 12,12 v 60 c 0,13.39696 -10.60304,24 -24,24 h -72 c -13.39697,0 -24,-10.60304 -24,-24 v -108 z"
+       d="M 37.00001,8e-6 V 158.00001 c 0,28.56479 23.4352,52 52,52 h 78 c 28.56479,0 52,-23.43521 52,-52 v -65 c 0,-21.38511 -17.6149,-39 -39,-39 -9.99042,0 -19.06682,3.9489 -26,10.22608 -6.93318,-6.27718 -16.00959,-10.22608 -26,-10.22608 -21.38511,0 -39,17.61489 -39,39 v 65 h 26 v -65 c 0,-7.33367 5.66633,-13 13,-13 7.33366,0 13,5.66633 13,13 v 65 h 26 v -65 c 0,-7.33367 5.66633,-13 13,-13 7.33366,0 13,5.66633 13,13 v 65 c 0,14.51337 -11.48663,26 -26,26 h -78 c -14.51338,0 -26,-11.48663 -26,-26 V 8e-6 Z"
        id="path4193"
        sodipodi:nodetypes="csssssscssccsssccssssssscc" />
   </g>
   <metadata
-     id="metadata153">
+     id="metadata35">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
