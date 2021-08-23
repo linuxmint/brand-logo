@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="768"
+   height="1024"
+   viewBox="0 0 768 1024"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (1:1.1+202105261517+ce6663b3b7)"
+   sodipodi:docname="names.svg"
+   inkscape:export-filename="/home/sebastien/brand-logo/names.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#cccccc"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     width="1024px"
+     inkscape:zoom="0.85253906"
+     inkscape:cx="384.14662"
+     inkscape:cy="512"
+     inkscape:current-layer="layer1"
+     scale-x="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid91"
+       spacingx="16"
+       spacingy="18"
+       empspacing="8"
+       color="#0000ff"
+       opacity="0.05"
+       empcolor="#0000ff"
+       empopacity="0.10" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:24px;line-height:144px;font-family:sans-serif;text-align:end;text-anchor:end;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       x="240.00035"
+       y="233.23473"
+       id="text23261"><tspan
+         sodipodi:role="line"
+         id="tspan23259"
+         style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="240.00035"
+         y="233.23473">Simple</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="240.00035"
+         y="377.23471"
+         id="tspan23263">Ring</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="240.00035"
+         y="521.23468"
+         id="tspan23265">Badge</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="240.00035"
+         y="665.23468"
+         id="tspan23267">High badge</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="240.00035"
+         y="809.23462"
+         id="tspan23533">Leaf</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="240.00037"
+         y="953.23462"
+         id="tspan23535">Leaf badge</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:23.9995px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       x="383.99826"
+       y="104.836"
+       id="text45348"><tspan
+         sodipodi:role="line"
+         id="tspan45346"
+         style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="383.99826"
+         y="104.836">1 color (mono)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:23.9995px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       x="639.99255"
+       y="104.836"
+       id="text50832"><tspan
+         sodipodi:role="line"
+         id="tspan50830"
+         style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="639.99255"
+         y="104.836">2 colors (color)</tspan></text>
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="96"
+       width="128"
+       height="128"
+       xlink:href="simple-mono.svg"
+       id="image1001"
+       x="320"
+       y="165.5" />
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="96"
+       width="128"
+       height="128"
+       xlink:href="ring-mono.svg"
+       id="image1095"
+       x="320"
+       y="304" />
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="96"
+       width="128"
+       height="128"
+       xlink:href="badge-mono.svg"
+       id="image1365"
+       x="320"
+       y="448" />
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="96"
+       width="128"
+       height="128"
+       xlink:href="high-badge-mono.svg"
+       id="image1453"
+       x="320"
+       y="592" />
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="96"
+       width="128"
+       height="128"
+       xlink:href="leaf-mono.svg"
+       id="image1547"
+       x="320"
+       y="742.62451" />
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="96"
+       width="128"
+       height="128"
+       xlink:href="leaf-badge-mono.svg"
+       id="image1637"
+       x="320"
+       y="886.62451" />
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="96"
+       width="128"
+       height="128"
+       xlink:href="ring.svg"
+       id="image1719"
+       x="576"
+       y="304" />
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="96"
+       width="128"
+       height="128"
+       xlink:href="badge.svg"
+       id="image1817"
+       x="576"
+       y="448" />
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="96"
+       width="128"
+       height="128"
+       xlink:href="high-badge.svg"
+       id="image1915"
+       x="576"
+       y="592" />
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="96"
+       width="128"
+       height="128"
+       xlink:href="leaf.svg"
+       id="image2019"
+       x="576"
+       y="742.62451" />
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="96"
+       width="128"
+       height="128"
+       xlink:href="leaf-badge.svg"
+       id="image2129"
+       x="576"
+       y="886.62451" />
+  </g>
+</svg>
