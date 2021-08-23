@@ -7,64 +7,12 @@
    viewBox="0 0 256 256"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1 (1:1.1+202105261517+ce6663b3b7)"
-   sodipodi:docname="high-badge-src.svg"
-   inkscape:export-filename="/home/sebastien/Sources/LinuxMint-logo-Y/LM-logo-Y-01b(singleline).png"
-   inkscape:export-xdpi="180"
-   inkscape:export-ydpi="180"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
+   xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs4" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#c0c0c0"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="1"
-     inkscape:pageshadow="2"
-     inkscape:zoom="3.4101562"
-     inkscape:cx="128"
-     inkscape:cy="128"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer3"
-     showgrid="true"
-     inkscape:window-width="506"
-     inkscape:window-height="546"
-     inkscape:window-x="512"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     showguides="false"
-     inkscape:guide-bbox="true"
-     units="px"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
-     showborder="true"
-     inkscape:showpageshadow="false"
-     inkscape:pagecheckerboard="0"
-     borderlayer="true">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4139"
-       spacingx="13"
-       spacingy="13"
-       empspacing="2"
-       originx="37"
-       originy="210"
-       empcolor="#ff3f3f"
-       empopacity="0.25098039" />
-  </sodipodi:namedview>
   <g
-     inkscape:groupmode="layer"
-     id="layer3"
-     inkscape:label="Layer 1">
+     id="layer3">
     <circle
        style="fill:#86be43;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
        id="path40"
@@ -74,7 +22,6 @@
     <path
        style="color:#000000;fill:#505050;stroke-width:0;-inkscape-stroke:none"
        d="M 37.00001,8e-6 V 158.00001 c 0,28.56479 23.4352,52 52,52 h 78 c 28.56479,0 52,-23.43521 52,-52 v -65 c 0,-21.38511 -17.6149,-39 -39,-39 -9.99042,0 -19.06682,3.9489 -26,10.22608 -6.93318,-6.27718 -16.00959,-10.22608 -26,-10.22608 -21.38511,0 -39,17.61489 -39,39 v 65 h 26 v -65 c 0,-7.33367 5.66633,-13 13,-13 7.33366,0 13,5.66633 13,13 v 65 h 26 v -65 c 0,-7.33367 5.66633,-13 13,-13 7.33366,0 13,5.66633 13,13 v 65 c 0,14.51337 -11.48663,26 -26,26 h -78 c -14.51338,0 -26,-11.48663 -26,-26 V 8e-6 Z"
-       id="path4193"
-       sodipodi:nodetypes="csssssscssccsssccssssssscc" />
+       id="path4193" />
   </g>
 </svg>

@@ -7,64 +7,12 @@
    viewBox="0 0 256 256"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1 (1:1.1+202105261517+ce6663b3b7)"
-   sodipodi:docname="high-badge-mono.svg"
-   inkscape:export-filename="/home/sebastien/Sources/LinuxMint-logo-Y/LM-logo-Y-01b(singleline).png"
-   inkscape:export-xdpi="180"
-   inkscape:export-ydpi="180"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
+   xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs4" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#c0c0c0"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="1"
-     inkscape:pageshadow="2"
-     inkscape:zoom="3.4101562"
-     inkscape:cx="128"
-     inkscape:cy="128"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer3"
-     showgrid="false"
-     inkscape:window-width="506"
-     inkscape:window-height="546"
-     inkscape:window-x="512"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     showguides="false"
-     inkscape:guide-bbox="true"
-     units="px"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
-     showborder="true"
-     inkscape:showpageshadow="false"
-     inkscape:pagecheckerboard="0"
-     borderlayer="true">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4139"
-       spacingx="13"
-       spacingy="13"
-       empspacing="2"
-       originx="37"
-       originy="210"
-       empcolor="#ff3f3f"
-       empopacity="0.25098039" />
-  </sodipodi:namedview>
   <g
-     inkscape:groupmode="layer"
-     id="layer3"
-     inkscape:label="Layer 1">
+     id="layer3">
     <path
        id="path40"
        style="fill:#505050;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"

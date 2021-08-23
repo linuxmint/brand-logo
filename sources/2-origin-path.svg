@@ -7,63 +7,12 @@
    viewBox="0 0 140 140"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1 (1:1.1+202105261517+ce6663b3b7)"
-   sodipodi:docname="2-origin-path.svg"
-   inkscape:export-filename="/home/sebastien/Sources/LinuxMint-logo-Y/LM-logo-Y-01b(singleline).png"
-   inkscape:export-xdpi="180"
-   inkscape:export-ydpi="180"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
+   xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs4" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#c0c0c0"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="1"
-     inkscape:pageshadow="2"
-     inkscape:zoom="6.2357143"
-     inkscape:cx="70"
-     inkscape:cy="70"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer3"
-     showgrid="true"
-     inkscape:window-width="506"
-     inkscape:window-height="546"
-     inkscape:window-x="512"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     showguides="false"
-     inkscape:guide-bbox="true"
-     units="px"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
-     showborder="true"
-     inkscape:showpageshadow="false"
-     inkscape:pagecheckerboard="0">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4139"
-       spacingx="10"
-       spacingy="10"
-       empspacing="2"
-       originx="0"
-       originy="0"
-       empcolor="#ff3f3f"
-       empopacity="0.25098039" />
-  </sodipodi:namedview>
   <g
-     inkscape:groupmode="layer"
-     id="layer3"
-     inkscape:label="Layer 1">
+     id="layer3">
     <path
        style="color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;-inkscape-stroke:none"
        d="m 0,0 v 100 c 0,21.97292 18.02708,40 40,40 h 60 c 21.97292,0 40,-18.02708 40,-40 V 50 C 140,33.54992 126.45008,20 110,20 102.31506,20 95.33322,23.03762 90,27.86622 84.66678,23.03762 77.68494,20 70,20 53.54992,20 40,33.54992 40,50 v 50 H 60 V 50 c 0,-5.64128 4.35872,-10 10,-10 5.64128,0 10,4.35872 10,10 v 50 h 20 V 50 c 0,-5.64128 4.35872,-10 10,-10 5.64128,0 10,4.35872 10,10 v 50 c 0,11.16414 -8.83586,20 -20,20 H 40 C 28.83586,120 20,111.16414 20,100 V 0 Z"
