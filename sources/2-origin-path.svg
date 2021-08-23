@@ -19,8 +19,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <title
-     id="title3343">Linux Mint logo</title>
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -71,13 +69,4 @@
        d="m 0,0 v 100 c 0,21.97292 18.02708,40 40,40 h 60 c 21.97292,0 40,-18.02708 40,-40 V 50 C 140,33.54992 126.45008,20 110,20 102.31506,20 95.33322,23.03762 90,27.86622 84.66678,23.03762 77.68494,20 70,20 53.54992,20 40,33.54992 40,50 v 50 H 60 V 50 c 0,-5.64128 4.35872,-10 10,-10 5.64128,0 10,4.35872 10,10 v 50 h 20 V 50 c 0,-5.64128 4.35872,-10 10,-10 5.64128,0 10,4.35872 10,10 v 50 c 0,11.16414 -8.83586,20 -20,20 H 40 C 28.83586,120 20,111.16414 20,100 V 0 Z"
        id="path4193" />
   </g>
-  <metadata
-     id="metadata16">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:title>Linux Mint logo</dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
 </svg>
