@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (1:1.1+202105261517+ce6663b3b7)"
+   sodipodi:docname="leaf-stroke-src.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     width="1024px"
+     scale-x="1"
+     inkscape:zoom="3"
+     inkscape:cx="127.83333"
+     inkscape:cy="127.83333"
+     inkscape:current-layer="layer1"
+     inkscape:object-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-bbox="true"
+     inkscape:lockguides="true"
+     showguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid821"
+       spacingx="12.5"
+       spacingy="12.5"
+       empspacing="4"
+       originx="40.5"
+       originy="53" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-256,256"
+       id="guide2902"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="0,256"
+       orientation="256,256"
+       inkscape:locked="true"
+       id="guide3413" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path845"
+       style="fill:#cccccc;stroke-width:0;stroke:none;fill-opacity:1"
+       d="M 0 0 L 0 128 A 128 128 0 0 0 128 256 L 256 256 L 256 128 A 128 128 0 0 0 128 0 L 0 0 z " />
+    <path
+       id="path1749"
+       style="fill:none;stroke:#000000;stroke-width:24.9999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -19.521788,-19.554759 42.016529,41.983559 C 49.049128,49.016158 53,58.55441 53,68.5 v 97 C 53,186.21067 69.789324,203 90.500002,203 H 165.5 c 20.71067,0 37.5,-16.78933 37.5,-37.5 V 103 c 0,-13.807113 -11.19289,-25 -25,-25 -13.80712,0 -25,11.192886 -25,25 v 62.5 m 0,-62.5 c 0,-13.807114 -11.19288,-25 -25,-25 -13.80712,0 -25,11.192886 -25,25 v 62.5" />
+  </g>
+</svg>
