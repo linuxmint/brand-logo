@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="296"
+   height="296"
+   viewBox="0 0 296 296"
+   id="svg2"
+   version="1.1"
+   sodipodi:docname="arobas-rev-mono.svg"
+   inkscape:version="1.1 (1:1.1+202105261517+ce6663b3b7)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#808080"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:zoom="1"
+     inkscape:cx="106.5"
+     inkscape:cy="128.5"
+     inkscape:current-layer="layer1"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-intersection-paths="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid9"
+       originx="58"
+       originy="193"
+       empspacing="2"
+       spacingx="20"
+       spacingy="20" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer 1">
+    <path
+       id="path867"
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:0;fill-opacity:1"
+       d="M 148 0 A 148 148 0 0 0 0 148 A 148 148 0 0 0 148 296 A 148 148 0 0 0 296 148 A 148 148 0 0 0 148 0 z M 141 20 L 148 20 C 218.57393 20 276 77.426069 276 148 C 276 218.57393 218.57393 276 148 276 C 77.426069 276 20 218.57393 20 148 C 20 124.71065 26.275878 102.82119 37.166016 84 L 54.478516 94.015625 C 45.280841 109.91176 40 128.29455 40 148 C 40 207.76514 88.234861 256 148 256 C 207.76514 256 256 207.76514 256 148 C 256 88.234861 207.76514 40 148 40 L 141 40 C 117.13333 40 98 59.133333 98 83 L 98 173 C 98 184.16414 106.83586 193 118 193 L 178 193 C 189.16414 193 198 184.16414 198 173 L 198 123 C 198 117.35872 193.64128 113 188 113 C 182.35872 113 178 117.35872 178 123 L 178 173 L 158 173 L 158 123 C 158 117.35872 153.64128 113 148 113 C 142.35872 113 138 117.35872 138 123 L 138 173 L 118 173 L 118 123 C 118 106.54992 131.54992 93 148 93 C 155.68494 93 162.66678 96.038586 168 100.86719 C 173.33322 96.038586 180.31506 93 188 93 C 204.45008 93 218 106.54992 218 123 L 218 173 C 218 194.97292 199.97292 213 178 213 L 118 213 C 96.02708 213 78 194.97292 78 173 L 78 83 C 78 48.324542 106.32454 20 141 20 z " />
+  </g>
+</svg>
