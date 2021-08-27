@@ -26,7 +26,7 @@
      units="px"
      width="1082px"
      scale-x="1"
-     inkscape:zoom="0.98307292"
+     inkscape:zoom="1"
      inkscape:cx="419.60265"
      inkscape:cy="221.24503"
      inkscape:current-layer="layer1">
@@ -86,7 +86,7 @@
     </g>
     <g
        id="g969"
-       style="stroke:none;stroke-width:1.15625"
+       style="stroke:none;stroke-width:0"
        transform="scale(0.86486486)">
       <circle
          style="opacity:1;fill:#00b894;stroke:none;stroke-width:0"
