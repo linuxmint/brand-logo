@@ -1,6 +1,8 @@
 # brand-logo
 Linux Mint Logo and brand resources
 
+![preview](names.png)
+
 ### etc branch
 This `etc` branch is the experimental one. Here you can find new logos.
 
