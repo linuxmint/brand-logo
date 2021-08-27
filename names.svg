@@ -29,9 +29,9 @@
      showgrid="false"
      units="px"
      width="1024px"
-     inkscape:zoom="0.5"
-     inkscape:cx="359"
-     inkscape:cy="1303"
+     inkscape:zoom="1"
+     inkscape:cx="768.5"
+     inkscape:cy="223.5"
      inkscape:current-layer="layer1"
      scale-x="1"
      inkscape:snap-bbox="true"
@@ -76,40 +76,60 @@
      id="layer1">
     <text
        xml:space="preserve"
-       style="font-size:48px;line-height:288px;font-family:sans-serif;text-align:end;text-anchor:end;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
-       x="481.42969"
+       style="font-size:24px;line-height:288px;font-family:sans-serif;text-align:end;text-anchor:end;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       x="312.75781"
        y="468.46875"
        id="text23261"><tspan
          sodipodi:role="line"
          id="tspan23259"
-         style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         x="481.42969"
+         style="font-size:24px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="312.75781"
          y="468.46875">arobas</tspan><tspan
          sodipodi:role="line"
-         style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         x="481.42969"
+         style="font-size:24px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="312.75781"
          y="756.46875"
-         id="tspan23535">arobas-rev</tspan></text>
+         id="tspan23535">arobas-rev</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:24px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="312.75781"
+         y="1044.4688"
+         id="tspan3862">arobas-name-mono</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:24px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="312.75781"
+         y="1332.4688"
+         id="tspan12528">arobas-name-green</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:24px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="312.75781"
+         y="1620.4688"
+         id="tspan12530">arobas-name-rev-mono</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:24px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="312.75781"
+         y="1908.4688"
+         id="tspan12532">arobas-name-rev-green</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:47.999px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       style="font-size:24px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
        x="768.89459"
        y="216.01599"
        id="text45348"><tspan
          sodipodi:role="line"
          id="tspan45346"
-         style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-size:24px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="768.89459"
          y="216.01599">mono = white</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:47.999px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       style="font-size:24px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
        x="1280.8832"
        y="216.01599"
        id="text50832"><tspan
          sodipodi:role="line"
          id="tspan50830"
-         style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-size:24px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1280.8832"
          y="216.01599">green = mint</tspan></text>
     <image
@@ -150,87 +170,41 @@
        x="1152"
        y="608"
        style="stroke-width:1.15625" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:186.667px;line-height:1.25;font-family:sans-serif;letter-spacing:-2px;fill:#ffffff;fill-opacity:1;stroke:none"
-       x="343.81329"
-       y="1088.5067"
-       id="text304824"><tspan
-         sodipodi:role="line"
-         id="tspan304822"
-         x="343.81329"
-         y="1088.5067"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.667px;font-family:Oxanium;-inkscape-font-specification:Oxanium;fill:#ffffff;fill-opacity:1">linuxmint</tspan></text>
     <image
        preserveAspectRatio="none"
        inkscape:svg-dpi="96"
-       width="256"
+       width="1062"
        height="256"
-       xlink:href="arobas-mono.svg"
-       id="image45952"
-       x="64"
+       xlink:href="arobas-name-mono.svg"
+       id="image934"
+       x="448"
        y="896" />
     <image
        preserveAspectRatio="none"
        inkscape:svg-dpi="96"
-       width="256"
+       width="1062"
        height="256"
-       xlink:href="arobas-green.svg"
-       id="image45960"
-       x="64"
+       xlink:href="arobas-name-green.svg"
+       id="image1074"
+       x="448"
        y="1184" />
     <image
        preserveAspectRatio="none"
        inkscape:svg-dpi="96"
-       width="256"
+       width="1062"
        height="256"
-       xlink:href="arobas-rev-mono.svg"
-       id="image45968"
-       x="64"
-       y="1472"
-       style="stroke-width:1.15625" />
+       xlink:href="arobas-name-rev-mono.svg"
+       id="image1214"
+       x="448"
+       y="1472" />
     <image
        preserveAspectRatio="none"
        inkscape:svg-dpi="96"
-       width="256"
+       width="1062"
        height="256"
-       xlink:href="arobas-rev-green.svg"
-       id="image45976"
-       x="64"
-       y="1760"
-       style="stroke-width:1.15625" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:186.667px;line-height:1.25;font-family:sans-serif;letter-spacing:-2px;fill:#00b894;fill-opacity:1;stroke:none"
-       x="343.81329"
-       y="1376.5066"
-       id="text46129"><tspan
-         sodipodi:role="line"
-         id="tspan46127"
-         x="343.81329"
-         y="1376.5066"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.667px;font-family:Oxanium;-inkscape-font-specification:Oxanium;fill:#00b894;fill-opacity:1">linuxmint</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:186.667px;line-height:1.25;font-family:sans-serif;letter-spacing:-2px;fill:#ffffff;fill-opacity:1;stroke:none"
-       x="343.81329"
-       y="1664.5066"
-       id="text47230"><tspan
-         sodipodi:role="line"
-         id="tspan47228"
-         x="343.81329"
-         y="1664.5066"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.667px;font-family:Oxanium;-inkscape-font-specification:Oxanium;fill:#ffffff;fill-opacity:1">linuxmint</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:186.667px;line-height:1.25;font-family:sans-serif;letter-spacing:-2px;fill:#00b894;fill-opacity:1;stroke:none"
-       x="343.81329"
-       y="1952.5065"
-       id="text47234"><tspan
-         sodipodi:role="line"
-         id="tspan47232"
-         x="343.81329"
-         y="1952.5065"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.667px;font-family:Oxanium;-inkscape-font-specification:Oxanium;fill:#00b894;fill-opacity:1">linuxmint</tspan></text>
+       xlink:href="arobas-name-rev-green.svg"
+       id="image1358"
+       x="448"
+       y="1760" />
   </g>
 </svg>
