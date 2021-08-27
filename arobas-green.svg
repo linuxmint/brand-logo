@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   id="svg2"
+   version="1.1"
+   sodipodi:docname="arobas-green.svg"
+   inkscape:version="1.1 (1:1.1+202105261517+ce6663b3b7)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:zoom="2"
+     inkscape:cx="105.25"
+     inkscape:cy="128.25"
+     inkscape:current-layer="layer1"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-intersection-paths="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid9"
+       originx="58"
+       originy="193"
+       empspacing="2"
+       spacingx="20"
+       spacingy="20" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer 1">
+    <path
+       style="color:#000000;fill:#00b894;fill-opacity:1;stroke:none;stroke-width:0;-inkscape-stroke:none"
+       d="M 121,0 C 86.324542,0 58,28.324542 58,63 v 90 c 0,21.97292 18.02708,40 40,40 h 60 c 21.97292,0 40,-18.02708 40,-40 v -50 c 0,-16.450085 -13.54992,-30 -30,-30 -7.68494,0 -14.66678,3.038588 -20,7.867188 C 142.66678,76.038588 135.68494,73 128,73 111.54992,73 98,86.549915 98,103 v 50 h 20 v -50 c 0,-5.641285 4.35872,-10 10,-10 5.64128,0 10,4.358715 10,10 v 50 h 20 v -50 c 0,-5.641285 4.35872,-10 10,-10 5.64128,0 10,4.358715 10,10 v 50 c 0,11.16414 -8.83586,20 -20,20 H 98 C 86.83586,173 78,164.16414 78,153 V 63 C 78,39.133333 97.133333,20 121,20 h 7 c 59.76514,0 108,48.234861 108,108 0,59.76514 -48.23486,108 -108,108 C 68.234861,236 20,187.76514 20,128 20,108.29455 25.280841,89.911763 34.478516,74.015625 L 17.166016,64 C 6.275878,82.821185 0,104.71065 0,128 0,198.57393 57.426069,256 128,256 198.57393,256 256,198.57393 256,128 256,57.426069 198.57393,0 128,0 Z"
+       id="path4193"
+       sodipodi:nodetypes="cssssssscssccsssccssssssssccsssccssscc" />
+  </g>
+</svg>
