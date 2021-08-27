@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1536"
+   height="2048"
+   viewBox="0 0 1536 2048"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (1:1.1+202105261517+ce6663b3b7)"
+   sodipodi:docname="names.svg"
+   inkscape:export-filename="/home/sebastien/brand-logo/names.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#cccccc"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     width="1024px"
+     inkscape:zoom="0.5"
+     inkscape:cx="359"
+     inkscape:cy="1303"
+     inkscape:current-layer="layer1"
+     scale-x="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:lockguides="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid91"
+       spacingx="32"
+       spacingy="36"
+       empspacing="8"
+       color="#0000ff"
+       opacity="0.05"
+       empcolor="#0000ff"
+       empopacity="0.10" />
+    <sodipodi:guide
+       position="0,2048"
+       orientation="288,0"
+       id="guide46101"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="0,960"
+       orientation="0,-1"
+       id="guide46103"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       inkscape:locked="true"
+       position="0,672"
+       orientation="0,1536"
+       id="guide46583" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:48px;line-height:288px;font-family:sans-serif;text-align:end;text-anchor:end;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       x="481.42969"
+       y="468.46875"
+       id="text23261"><tspan
+         sodipodi:role="line"
+         id="tspan23259"
+         style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="481.42969"
+         y="468.46875">arobas</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="481.42969"
+         y="756.46875"
+         id="tspan23535">arobas-rev</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:47.999px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       x="768.89459"
+       y="216.01599"
+       id="text45348"><tspan
+         sodipodi:role="line"
+         id="tspan45346"
+         style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="768.89459"
+         y="216.01599">mono = white</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:47.999px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       x="1280.8832"
+       y="216.01599"
+       id="text50832"><tspan
+         sodipodi:role="line"
+         id="tspan50830"
+         style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="1280.8832"
+         y="216.01599">green = mint</tspan></text>
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="96"
+       width="256"
+       height="256"
+       xlink:href="arobas-mono.svg"
+       id="image29023"
+       x="640"
+       y="320" />
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="96"
+       width="256"
+       height="256"
+       xlink:href="arobas-green.svg"
+       id="image29103"
+       x="1152"
+       y="320" />
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="96"
+       width="256"
+       height="256"
+       xlink:href="arobas-rev-mono.svg"
+       id="image45779"
+       x="640"
+       y="608"
+       style="stroke-width:1.15625" />
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="96"
+       width="256"
+       height="256"
+       xlink:href="arobas-rev-green.svg"
+       id="image45863"
+       x="1152"
+       y="608"
+       style="stroke-width:1.15625" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:186.667px;line-height:1.25;font-family:sans-serif;letter-spacing:-2px;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="343.81329"
+       y="1088.5067"
+       id="text304824"><tspan
+         sodipodi:role="line"
+         id="tspan304822"
+         x="343.81329"
+         y="1088.5067"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.667px;font-family:Oxanium;-inkscape-font-specification:Oxanium;fill:#ffffff;fill-opacity:1">linuxmint</tspan></text>
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="96"
+       width="256"
+       height="256"
+       xlink:href="arobas-mono.svg"
+       id="image45952"
+       x="64"
+       y="896" />
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="96"
+       width="256"
+       height="256"
+       xlink:href="arobas-green.svg"
+       id="image45960"
+       x="64"
+       y="1184" />
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="96"
+       width="256"
+       height="256"
+       xlink:href="arobas-rev-mono.svg"
+       id="image45968"
+       x="64"
+       y="1472"
+       style="stroke-width:1.15625" />
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="96"
+       width="256"
+       height="256"
+       xlink:href="arobas-rev-green.svg"
+       id="image45976"
+       x="64"
+       y="1760"
+       style="stroke-width:1.15625" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:186.667px;line-height:1.25;font-family:sans-serif;letter-spacing:-2px;fill:#00b894;fill-opacity:1;stroke:none"
+       x="343.81329"
+       y="1376.5066"
+       id="text46129"><tspan
+         sodipodi:role="line"
+         id="tspan46127"
+         x="343.81329"
+         y="1376.5066"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.667px;font-family:Oxanium;-inkscape-font-specification:Oxanium;fill:#00b894;fill-opacity:1">linuxmint</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:186.667px;line-height:1.25;font-family:sans-serif;letter-spacing:-2px;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="343.81329"
+       y="1664.5066"
+       id="text47230"><tspan
+         sodipodi:role="line"
+         id="tspan47228"
+         x="343.81329"
+         y="1664.5066"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.667px;font-family:Oxanium;-inkscape-font-specification:Oxanium;fill:#ffffff;fill-opacity:1">linuxmint</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:186.667px;line-height:1.25;font-family:sans-serif;letter-spacing:-2px;fill:#00b894;fill-opacity:1;stroke:none"
+       x="343.81329"
+       y="1952.5065"
+       id="text47234"><tspan
+         sodipodi:role="line"
+         id="tspan47232"
+         x="343.81329"
+         y="1952.5065"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.667px;font-family:Oxanium;-inkscape-font-specification:Oxanium;fill:#00b894;fill-opacity:1">linuxmint</tspan></text>
+  </g>
+</svg>
