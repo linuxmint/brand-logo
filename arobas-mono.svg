@@ -21,11 +21,11 @@
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
-     showgrid="false"
+     showgrid="true"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
      inkscape:zoom="2"
-     inkscape:cx="89.75"
+     inkscape:cx="33.25"
      inkscape:cy="128.25"
      inkscape:current-layer="layer1"
      inkscape:snap-object-midpoints="true"
@@ -34,18 +34,14 @@
     <inkscape:grid
        type="xygrid"
        id="grid9"
-       originx="0"
-       originy="0"
+       originx="58"
+       originy="193"
        empspacing="2"
-       spacingx="16"
-       spacingy="16" />
+       spacingx="20"
+       spacingy="20" />
   </sodipodi:namedview>
   <defs
      id="defs4" />
-  <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="Layer 0" />
   <g
      inkscape:groupmode="layer"
      id="layer1"
