@@ -1,6 +1,8 @@
 # brand-logo
 LinuxMint logo and brand resources
 
+![preview](arobas-name-rev-green2.png)
+______
 ![preview](names.png)
 
 ### etc branch
