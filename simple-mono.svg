@@ -7,78 +7,15 @@
    viewBox="0 0 256 256"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1 (1:1.1+202105261517+ce6663b3b7)"
-   sodipodi:docname="simple-mono.svg"
-   inkscape:export-filename="/home/sebastien/Sources/LinuxMint-logo-Y/LM-logo-Y-01b(singleline).png"
-   inkscape:export-xdpi="180"
-   inkscape:export-ydpi="180"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <title
-     id="title3343">Linux Mint logo</title>
+   xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs4" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#c0c0c0"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="1"
-     inkscape:pageshadow="2"
-     inkscape:zoom="3.4101562"
-     inkscape:cx="128"
-     inkscape:cy="128"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer3"
-     showgrid="true"
-     inkscape:window-width="506"
-     inkscape:window-height="546"
-     inkscape:window-x="512"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     showguides="false"
-     inkscape:guide-bbox="true"
-     units="px"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
-     showborder="true"
-     inkscape:showpageshadow="false"
-     inkscape:pagecheckerboard="0">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4139"
-       spacingx="18"
-       spacingy="18"
-       empspacing="2"
-       originx="2"
-       originy="29"
-       empcolor="#ff3f3f"
-       empopacity="0.25098039" />
-  </sodipodi:namedview>
   <g
-     inkscape:groupmode="layer"
-     id="layer3"
-     inkscape:label="Layer 1">
+     id="layer3">
     <path
        style="color:#000000;fill:#505050;fill-opacity:1;stroke:none;stroke-width:0;-inkscape-stroke:none"
        d="m 2,11 v 162 c 0,39.55126 32.44874,72 72,72 h 108 c 39.55126,0 72,-32.44874 72,-72 V 83 C 254,53.38986 229.61014,29 200,29 186.16711,29 173.5998,34.46772 164,43.1592 154.4002,34.46772 141.83289,29 128,29 98.38986,29 74,53.38986 74,83 v 90 h 36 V 83 c 0,-10.1543 7.8457,-18 18,-18 10.1543,0 18,7.8457 18,18 v 90 h 36 V 83 c 0,-10.1543 7.8457,-18 18,-18 10.1543,0 18,7.8457 18,18 v 90 c 0,20.09545 -15.90455,36 -36,36 H 74 C 53.90455,209 38,193.09545 38,173 V 11 Z"
-       id="path4193"
-       sodipodi:nodetypes="csssssscssccsssccssssssscc" />
+       id="path4193" />
   </g>
-  <metadata
-     id="metadata149">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:title>Linux Mint logo</dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
 </svg>
