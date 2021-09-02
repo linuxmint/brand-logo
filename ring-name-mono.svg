@@ -7,50 +7,12 @@
    viewBox="0 0 1060 256"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1 (1:1.1+202105261517+ce6663b3b7)"
-   sodipodi:docname="ring-name-mono.svg"
-   inkscape:export-filename="/home/sebastien/brand-logo/logo-name.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview7"
-     pagecolor="#ffffff"
-     bordercolor="#999999"
-     borderopacity="1"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:document-units="px"
-     showgrid="false"
-     units="px"
-     width="1060px"
-     scale-x="1"
-     inkscape:zoom="1.6537736"
-     inkscape:cx="530"
-     inkscape:cy="31.140901"
-     inkscape:current-layer="layer2"
-     inkscape:snap-bbox="true"
-     inkscape:bbox-nodes="true"
-     inkscape:snap-nodes="false"
-     inkscape:snap-others="false">
-    <inkscape:grid
-       type="xygrid"
-       id="grid821"
-       spacingx="16"
-       spacingy="16"
-       empspacing="4" />
-  </sodipodi:namedview>
   <defs
      id="defs2" />
   <g
-     inkscape:label="logo"
-     inkscape:groupmode="layer"
-     id="layer1"
-     sodipodi:insensitive="true">
+     id="layer1">
     <g
        id="layer3">
       <circle
@@ -66,9 +28,7 @@
     </g>
   </g>
   <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="name">
+     id="layer2">
     <g
        id="g923">
       <path
