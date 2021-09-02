@@ -1,0 +1,6 @@
+1. text and logo size and position
+2. text: Subtle manual kerns
+3. text: Add 2.641 px stroke of same colour as fill (Miter join)
+4. text: Path > Object to Path
+5. text: hor. align x=294px
+6. Document Properties > page size
