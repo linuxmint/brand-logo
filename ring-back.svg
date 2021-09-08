@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="276"
+   height="276"
+   viewBox="0 0 276 276"
+   id="svg2"
+   version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4" />
+  <circle
+     style="fill:#86be43;fill-opacity:1;stroke:none;stroke-width:0"
+     id="path33"
+     cx="138"
+     cy="138"
+     r="138" />
+  <circle
+     style="fill:none;fill-opacity:1;stroke:#505050;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path32"
+     cx="138"
+     cy="138"
+     r="118" />
+  <path
+     style="color:#000000;fill:#505050;fill-opacity:1;stroke:none;stroke-width:0;-inkscape-stroke:none"
+     d="m 68.000005,73.000005 v 90.000005 c 0,21.97292 18.02708,40 40.000005,40 h 60 c 21.97292,0 40,-18.02708 40,-40 v -50 c 0,-16.450085 -13.54992,-30.000005 -30,-30.000005 -7.68494,0 -14.66678,3.03762 -20,7.86622 -5.33322,-4.8286 -12.31506,-7.86622 -20,-7.86622 -16.45008,0 -30,13.54992 -30,30.000005 v 50 h 20 v -50 c 0,-5.64128 4.35872,-10 10,-10 5.64128,0 10,4.35872 10,10 v 50 h 20 v -50 c 0,-5.64128 4.35872,-10 10,-10 5.64128,0 10,4.35872 10,10 v 50 c 0,11.16414 -8.83586,20 -20,20 h -60 c -11.164145,0 -20.000005,-8.83586 -20.000005,-20 V 73.000005 Z"
+     id="path4193" />
+</svg>
