@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1344"
+   height="960"
+   viewBox="0 0 1344 960"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (1:1.1+202105261517+ce6663b3b7)"
+   sodipodi:docname="preview-1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="true"
+     units="px"
+     width="1920px"
+     scale-x="1"
+     inkscape:zoom="0.55885417"
+     inkscape:cx="815.06058"
+     inkscape:cy="539.49674"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2563"
+       spacingx="32"
+       spacingy="32"
+       empspacing="2"
+       originx="64"
+       originy="64" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="96"
+       width="256"
+       height="256"
+       xlink:href="badge.svg"
+       id="image1754"
+       x="64"
+       y="64" />
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="96"
+       width="256"
+       height="256"
+       xlink:href="badge-mono.svg"
+       id="image1838"
+       x="383.99997"
+       y="64" />
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="96"
+       width="256"
+       height="256"
+       xlink:href="ring.svg"
+       id="image1971"
+       x="704"
+       y="64" />
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="96"
+       width="256"
+       height="256"
+       xlink:href="ring-back.svg"
+       id="image2057"
+       x="1024"
+       y="64"
+       style="stroke-width:1.07812" />
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="96"
+       width="256"
+       height="256"
+       xlink:href="ring-grey-green.svg"
+       id="image2143"
+       x="64"
+       y="512" />
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="96"
+       width="256"
+       height="256"
+       xlink:href="ring-mono.svg"
+       id="image2229"
+       x="384.00003"
+       y="512" />
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="96"
+       width="256"
+       height="256"
+       xlink:href="ring-mono-green.svg"
+       id="image2315"
+       x="704"
+       y="512" />
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="96"
+       width="256"
+       height="256"
+       xlink:href="simple-mono.svg"
+       id="image2399"
+       x="1024"
+       y="512" />
+  </g>
+</svg>
