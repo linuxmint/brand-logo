@@ -30,9 +30,9 @@
      units="px"
      width="1920px"
      scale-x="1"
-     inkscape:zoom="0.55885417"
-     inkscape:cx="816.84995"
-     inkscape:cy="539.49673"
+     inkscape:zoom="0.69494819"
+     inkscape:cx="792.14538"
+     inkscape:cy="479.89189"
      inkscape:current-layer="layer1"
      showborder="false">
     <inkscape:grid
@@ -51,13 +51,36 @@
      id="layer2"
      inkscape:label="background"
      sodipodi:insensitive="true">
-    <rect
-       style="fill:none;fill-opacity:1;stroke:#999999;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect75561"
-       width="1540"
-       height="956"
-       x="2"
-       y="2" />
+    <g
+       id="g2932"
+       style="fill:none;fill-opacity:1;stroke:#999999;stroke-width:8.00694;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.64602323,0,0,0.64707167,1.2942878,1.2963886)">
+      <path
+         style="fill:none;fill-opacity:1;stroke:#999999;stroke-width:8.00694;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 2.0000005,62.000015 V 2 H 64"
+         id="rect2028"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#999999;stroke-width:8.00694;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 2384,62.000015 V 2 h -62"
+         id="path2928"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <g
+       id="g1090"
+       style="fill:none;fill-opacity:1;stroke:#999999;stroke-width:8.00694;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.64602323,0,0,-0.64707166,1.2942877,958.70346)">
+      <path
+         style="fill:none;fill-opacity:1;stroke:#999999;stroke-width:8.00694;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 2.0000005,62.000015 V 2 H 64"
+         id="path1086"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#999999;stroke-width:8.00694;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 2384,62.000015 V 2 h -62"
+         id="path1088"
+         sodipodi:nodetypes="ccc" />
+    </g>
   </g>
   <g
      inkscape:label="Layer 1"
@@ -68,7 +91,7 @@
        id="rect1208"
        width="384"
        height="384"
-       x="1156"
+       x="772"
        y="484" />
     <rect
        style="fill:#86be43;fill-opacity:1;stroke-width:20"
@@ -153,7 +176,7 @@
        height="256"
        xlink:href="ring-mono-green.svg"
        id="image2315"
-       x="836"
+       x="1220"
        y="548" />
     <image
        preserveAspectRatio="none"
@@ -162,7 +185,7 @@
        height="256"
        xlink:href="simple-mono.svg"
        id="image2399"
-       x="1220"
+       x="836"
        y="548" />
     <text
        xml:space="preserve"
@@ -233,23 +256,23 @@
     <text
        xml:space="preserve"
        style="font-size:24px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle"
-       x="963.99994"
+       x="1348"
        y="900"
        id="text57274"><tspan
          sodipodi:role="line"
          id="tspan57272"
-         x="963.99994"
+         x="1348"
          y="900"
          style="fill:#999999;fill-opacity:1">ring-mono-green</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle"
-       x="1347.9999"
+       x="963.99988"
        y="900"
        id="text57278"><tspan
          sodipodi:role="line"
          id="tspan57276"
-         x="1347.9999"
+         x="963.99988"
          y="900"
          style="fill:#999999;fill-opacity:1">simple-mono</tspan></text>
   </g>
