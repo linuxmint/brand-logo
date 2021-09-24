@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1544"
+   height="960"
+   viewBox="0 0 1544 960"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (1:1.1+202105261517+ce6663b3b7)"
+   sodipodi:docname="preview-1.svg"
+   inkscape:export-filename="/home/sebastien/brand-logo/preview-1.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="true"
+     units="px"
+     width="1920px"
+     scale-x="1"
+     inkscape:zoom="0.69494819"
+     inkscape:cx="792.14538"
+     inkscape:cy="479.89189"
+     inkscape:current-layer="layer1"
+     showborder="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2563"
+       spacingx="32"
+       spacingy="32"
+       empspacing="2"
+       originx="68"
+       originy="36" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="background"
+     sodipodi:insensitive="true">
+    <g
+       id="g2932"
+       style="fill:none;fill-opacity:1;stroke:#999999;stroke-width:8.00694;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.64602323,0,0,0.64707167,1.2942878,1.2963886)">
+      <path
+         style="fill:none;fill-opacity:1;stroke:#999999;stroke-width:8.00694;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 2.0000005,62.000015 V 2 H 64"
+         id="rect2028"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#999999;stroke-width:8.00694;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 2384,62.000015 V 2 h -62"
+         id="path2928"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <g
+       id="g1090"
+       style="fill:none;fill-opacity:1;stroke:#999999;stroke-width:8.00694;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.64602323,0,0,-0.64707166,1.2942877,958.70346)">
+      <path
+         style="fill:none;fill-opacity:1;stroke:#999999;stroke-width:8.00694;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 2.0000005,62.000015 V 2 H 64"
+         id="path1086"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#999999;stroke-width:8.00694;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 2384,62.000015 V 2 h -62"
+         id="path1088"
+         sodipodi:nodetypes="ccc" />
+    </g>
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#86be43;fill-opacity:1;stroke-width:20"
+       id="rect1208"
+       width="384"
+       height="384"
+       x="772"
+       y="484" />
+    <rect
+       style="fill:#86be43;fill-opacity:1;stroke-width:20"
+       id="rect1206"
+       width="384"
+       height="384"
+       x="388"
+       y="484" />
+    <rect
+       style="fill:#404040;fill-opacity:1;stroke-width:20"
+       id="rect1096"
+       width="384"
+       height="384"
+       x="772"
+       y="36" />
+    <rect
+       style="fill:#86be43;fill-opacity:1;stroke-width:20"
+       id="rect906"
+       width="384"
+       height="384"
+       x="388"
+       y="36" />
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="96"
+       width="256"
+       height="256"
+       xlink:href="badge.svg"
+       id="image1754"
+       x="68"
+       y="100" />
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="96"
+       width="256"
+       height="256"
+       xlink:href="badge-mono.svg"
+       id="image1838"
+       x="452"
+       y="100" />
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="96"
+       width="256"
+       height="256"
+       xlink:href="ring.svg"
+       id="image1971"
+       x="836"
+       y="100" />
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="96"
+       width="256"
+       height="256"
+       xlink:href="ring-back.svg"
+       id="image2057"
+       x="1220"
+       y="100"
+       style="stroke-width:1.07812" />
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="96"
+       width="256"
+       height="256"
+       xlink:href="ring-grey-green.svg"
+       id="image2143"
+       x="68"
+       y="548" />
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="96"
+       width="256"
+       height="256"
+       xlink:href="ring-mono.svg"
+       id="image2229"
+       x="452.00003"
+       y="548" />
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="96"
+       width="256"
+       height="256"
+       xlink:href="ring-mono-green.svg"
+       id="image2315"
+       x="1220"
+       y="548" />
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="96"
+       width="256"
+       height="256"
+       xlink:href="simple-mono.svg"
+       id="image2399"
+       x="836"
+       y="548" />
+    <text
+       xml:space="preserve"
+       style="font-size:24px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle"
+       x="196"
+       y="452"
+       id="text36308"><tspan
+         sodipodi:role="line"
+         id="tspan36306"
+         x="196"
+         y="452"
+         style="fill:#999999;fill-opacity:1">badge</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle"
+       x="579.99994"
+       y="452"
+       id="text37898"><tspan
+         sodipodi:role="line"
+         id="tspan37896"
+         x="579.99994"
+         y="452"
+         style="fill:#999999;fill-opacity:1">badge-mono</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle"
+       x="963.99994"
+       y="452"
+       id="text37902"><tspan
+         sodipodi:role="line"
+         id="tspan37900"
+         x="963.99994"
+         y="452"
+         style="fill:#999999;fill-opacity:1">ring</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle"
+       x="1347.9999"
+       y="452"
+       id="text37906"><tspan
+         sodipodi:role="line"
+         id="tspan37904"
+         x="1347.9999"
+         y="452"
+         style="fill:#999999;fill-opacity:1">ring-back</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle"
+       x="196"
+       y="900"
+       id="text57266"><tspan
+         sodipodi:role="line"
+         id="tspan57264"
+         x="196"
+         y="900"
+         style="fill:#999999;fill-opacity:1">ring-grey-green</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle"
+       x="579.99994"
+       y="900"
+       id="text57270"><tspan
+         sodipodi:role="line"
+         id="tspan57268"
+         x="579.99994"
+         y="900"
+         style="fill:#999999;fill-opacity:1">ring-mono</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle"
+       x="1348"
+       y="900"
+       id="text57274"><tspan
+         sodipodi:role="line"
+         id="tspan57272"
+         x="1348"
+         y="900"
+         style="fill:#999999;fill-opacity:1">ring-mono-green</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle"
+       x="963.99988"
+       y="900"
+       id="text57278"><tspan
+         sodipodi:role="line"
+         id="tspan57276"
+         x="963.99988"
+         y="900"
+         style="fill:#999999;fill-opacity:1">simple-mono</tspan></text>
+  </g>
+</svg>
