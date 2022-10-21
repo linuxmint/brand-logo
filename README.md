@@ -1,16 +1,23 @@
 # brand-logo
-Linux Mint Logo and brand resources
+Linux Mint logo and brand resources
 
+![preview.png](preview.png)
 
-| Name  | 1 color (mono) | 2 colors      |
-|:-----:|:--------------:|:-------------:|
-| Simple | <img src="https://raw.githubusercontent.com/linuxmint/brand-logo/master/simple-mono.svg" height="150"> | |
-| Ring  | <img src="https://raw.githubusercontent.com/linuxmint/brand-logo/master/ring-mono.svg" height="150"> | <img src="https://raw.githubusercontent.com/linuxmint/brand-logo/master/ring.svg" height="150"> |
-| Badge  | <img src="https://raw.githubusercontent.com/linuxmint/brand-logo/master/badge-mono.svg" height="150"> | <img src="https://raw.githubusercontent.com/linuxmint/brand-logo/master/badge.svg" height="150"> |
-| High Badge  | <img src="https://raw.githubusercontent.com/linuxmint/brand-logo/master/high-badge-mono.svg" height="150"> | <img src="https://raw.githubusercontent.com/linuxmint/brand-logo/master/high-badge.svg" height="150"> |
-| Leaf  | <img src="https://raw.githubusercontent.com/linuxmint/brand-logo/master/leaf-mono.svg" height="150"> | <img src="https://raw.githubusercontent.com/linuxmint/brand-logo/master/leaf.svg" height="150"> |
-| Leaf Badge  | <img src="https://raw.githubusercontent.com/linuxmint/brand-logo/master/leaf-badge-mono.svg" height="150"> | <img src="https://raw.githubusercontent.com/linuxmint/brand-logo/master/leaf-badge.svg" height="150"> |
+![preview-names.png](preview-names.png)
 
-<br />
-### Save as Plain SVG and use pixels (px) as units
+▲ *Different logo variants pictured with different backgrounds*
+
+---
+
+### Download them all into a small ZIP
+
+* Click on the green **Code** button on the top-right ↗ of the main page and then **Download ZIP.**
+* Or click this: [download ZIP](https://github.com/linuxmint/brand-logo/archive/refs/heads/master.zip).
+
+### Save as Plain SVG and use pixels as units
+
 All these files are saved as plain SVG (Inkscape > File > Save As... Plain SVG). This makes the files smaller without loosing any important data. Except one information: all units are in pixels. Everything was made using round numbers here. There is no such thing as `x=1.234 px` anywhere here. Prior to doing any edit, please set your document and tool units to pixels and use only round numbers.
+
+### Prefer SVG format whenever possible
+
+SVG stands for Scalable Vector Graphics. They will always be displayed perfectly at any size, large or small. And these are the source files. They can be changed. You can easily change shapes or colors. And they are very lightweight, thus very fast on the internet.
