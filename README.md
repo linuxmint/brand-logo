@@ -1,5 +1,4 @@
-# brand-logo
-Linux Mint logo and brand resources
+# Linux Mint logo and brand resources
 
 ![90-preview/preview.png](90-preview/preview.png)
 
