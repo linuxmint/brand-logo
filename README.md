@@ -12,7 +12,7 @@
 
 ![](90-preview/GitHub-code-button.png)
 
-* Click on the green **Code** button on the top-right ↗ of the main page and then **Download ZIP.**
+* Click on the green **Code** button on the top-right ↗ of the [main page](https://github.com/linuxmint/brand-logo) and then **Download ZIP.**
 * Or clone it: `git clone https://github.com/linuxmint/brand-logo.git`.
 
 ### Prefer SVG format whenever possible
