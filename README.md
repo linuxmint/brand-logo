@@ -24,20 +24,33 @@ SVG stands for Scalable Vector Graphics. They will always be displayed perfectly
 <details>
 <summary>3.1. Save as Plain SVG and use pixels as units (click to expand)</summary>
 
-All these files are saved as plain SVG (Inkscape > File > Save As... Plain SVG). This makes the files smaller without loosing any important data. Except one information: all units are in pixels. And everything was made using round numbers here. Prior to doing any edit, please set your document and tool units to pixels and prefer round numbers.</details>
+All these files are saved as plain SVG (Inkscape > File > Save As... Plain SVG). This makes the files smaller without loosing any important data. Except one information: all units are in pixels. And everything was made using round numbers here. Prior to doing any edit, please set your document and tool units to pixels and prefer round numbers.
+</details>
 
 <details>
 <summary>3.2. Be careful if you want to change the color (click to expand)</summary>
 
-If you want to change the color for the "Lm" logo, open it in Inkscape and change it. There is nothing intricate there. But if you want to change the color on the name (i.e. "linuxmint"), you must change both the fill and the stroke color.
+If you want to change the color on the "Lm" logo, open it in Inkscape and change it. There is nothing intricate there. But if you want to change the color on the name (i.e. "linuxmint"), you must change both the fill and the stroke color.
 
 That stroke has some thickness and was added to increase the font weight. Thus, you need to change both the fill and the stroke color on the name or else you end up with a typography that gets "choked" by an outline overprint of a different color. This:  
 
 ![](90-preview/ring-name-BAD-EXAMPLE.png)
 
-That's bad. To avoid this "choking" outline of a different color, set the stroke paint to the same color as the one used for the fill. You can change both of those fill and stroke colors in the same Fill and Stroke dialog (Shift+Ctrl+F), under 2 different tabs.
+That's bad. To avoid this "choking" outline of a different color, set the stroke paint to the same color as the one used for the fill. You can change both of those fill and stroke colors in the same Fill and Stroke dialog (Shift+Ctrl+F), under 2 different tabs, in Inkscape.
 
-That was only for the "linuxmint" name. The "lm" logo itself has nothing special.</details>
+Alternately, you could just use any simple text editor to search and replace the current official color all across the SVG file. This works for the name and for the logo. In the SVG files, the colors are written in hex format (hex = short for hexadecimal). For example, the current official color, at the time of this writing, is set as `#86be43`. (Prefer using lower case letters.) 
+
+So, you could just open some logo such as "ring-name.svg" in some simple text editor, such as Xed or Gedit. And then do a search and replace from `#86be43` to... say `#123abc` for example. It doesn't work? It is quite possible we moved to some other color. You can use any color picker to find which color we are currently using. Just make sure you set your color picker to express colors in hex values, and with lower case letters: `#123abc`, for example.
+
+And, if you want to change the color on many logo versions, and you hate doing repetitive work, then you could just use some simple terminal command to do so. Example:  
+
+```
+cd ~/Downloads/brand-logo-master # go where you downloaded and extracted
+sed -i 's/\#86be43/\#123abc/g' *.svg # replace 86be43 and 123abc as needed
+```
+
+You've just changed all logo files in a split second !
+</details>
 
 <details>
 <summary>3.3. Update those previews here on top of this README (click to expand)</summary>
@@ -46,4 +59,5 @@ The preview files are located in the `90-preview` sub-directory. The different l
 
 GitHub now allows displaying of SVG files, but it doesn't work when there are linked images in it. That's why we need to export to PNG file format.
 
-If you add or remove some logo version, you will have to edit the SVG preview file(s), or create new ones. And then you need to export to PNG, and make sure those PNGs appear correctly in this `README.md`.</details>
+If you add or remove some logo version, you will have to edit the SVG preview file(s), or create new ones. And then you need to export to PNG, and make sure those PNGs appear correctly in this `README.md`.
+</details>
