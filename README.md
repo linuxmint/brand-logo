@@ -22,13 +22,7 @@ SVG stands for Scalable Vector Graphics. They will always be displayed perfectly
 ### 3. How to modify or add new logo versions
 
 <details>
-<summary>3.1. Save as Plain SVG and use pixels as units (click to expand)</summary>
-
-All these files are saved as plain SVG (Inkscape > File > Save As... Plain SVG). This makes the files smaller without loosing any important data. Except one information: all units are in pixels. And everything was made using round numbers here. Prior to doing any edit, please set your document and tool units to pixels and prefer round numbers.
-</details>
-
-<details>
-<summary>3.2. Be careful if you want to change the color (click to expand)</summary>
+<summary>3.1. Be careful if you want to change the color (click to expand)</summary>
 
 If you want to change the color on the "Lm" logo, open it in Inkscape and change it. There is nothing intricate there. But if you want to change the color on the name (i.e. "linuxmint"), you must change both the fill and the stroke color.
 
@@ -53,7 +47,7 @@ You've just changed all logo files in a split second !
 </details>
 
 <details>
-<summary>3.3. Update those previews here on top of this README (click to expand)</summary>
+<summary>3.2. Update those previews here on top of this README (click to expand)</summary>
 
 The preview files are located in the `90-preview` sub-directory. The different logo versions that appear in `preview.svg` and `preview-names.svg` are placed there as a link. So, if you make changes to a logo that already exists, those changes are automatically applied in the SVG preview files. But you still have to update the PNG preview by an export. To get this, open Inkscape and do: File > Export page as PNG. Keep the same file name to replace the old PNG with your update.
 
