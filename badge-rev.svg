@@ -24,13 +24,13 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="3.4140625"
-     inkscape:cx="127.85355"
+     inkscape:cx="101.7849"
      inkscape:cy="128"
      inkscape:current-layer="svg2" /><defs
      id="defs4" /><g
-     id="g10352"><circle
+     id="badge-rev"><circle
        style="fill:#ffffff;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
-       id="circle"
+       id="background-circle"
        cx="128"
        cy="128"
        r="128" /><path
