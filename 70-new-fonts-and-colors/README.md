@@ -3,6 +3,7 @@
 This is not official. Not yet. We are just exploring other possibilities in this directory here.
 
 ![](ring-name-paths.png)
+![](badge-name-paths.png)
 
 * version 1: official version made of Ubuntu font.
 * version 2: alternate version made of Exo 2 font.
