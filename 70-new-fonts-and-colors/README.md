@@ -18,5 +18,7 @@ style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:nor
 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:175px;font-family:Oxanium;-inkscape-font-specification:'Oxanium, @wght=585';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 585;fill:#1dc99e;fill-opacity:1"
 ```
 
+This `ring-name-fonts.svg` got duplicated to `ring-name-paths.svg` were these font objects got converted to paths. This way, those logos do not rely on any font file or web link. That's how logos should always be made. Only paths, no fonts.
+
 ### Colors:
 Here we are trying the `#1dc99e`. That's HSL = 165°, 75%, 45%. We could try new colors from time to time. Color trends are constantly evolving. Perhaps the color choices shouldn't be set in stone.
