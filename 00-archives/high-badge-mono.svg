@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   id="svg2"
+   version="1.1"
+   sodipodi:docname="high-badge-mono.svg"
+   inkscape:version="1.2.2 (1:1.2.2+202212051552+b0a8486541)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview136"
+     pagecolor="#e5e5e5"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="3.4140625"
+     inkscape:cx="127.85355"
+     inkscape:cy="128"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4" />
+  <path
+     id="high-badge-mono"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+     d="M 128,0 A 128,128 0 0 0 63.000002,17.816402 V 158 c 0,14.51337 11.48662,26 26,26 H 167 c 14.51337,0 26,-11.48663 26,-26 V 93.000002 c 0,-7.33367 -5.66634,-13 -13,-13 -7.33367,0 -13,5.66633 -13,13 V 158 H 141 V 93.000002 c 0,-7.33367 -5.66634,-13 -13,-13 -7.33367,0 -13,5.66633 -13,13 V 158 H 89.000002 V 93.000002 c 0,-21.38511 17.614888,-39 38.999998,-39 9.99041,0 19.06682,3.94938 26,10.22656 6.93318,-6.27718 16.00958,-10.22656 26,-10.22656 21.3851,0 39,17.61489 39,39 V 158 c 0,28.56479 -23.43521,52 -52,52 H 89.000002 c -28.5648,0 -52,-23.43521 -52,-52 V 38.048832 A 128,128 0 0 0 0,128 128,128 0 0 0 128,256 128,128 0 0 0 256,128 128,128 0 0 0 128,0 Z" />
+</svg>

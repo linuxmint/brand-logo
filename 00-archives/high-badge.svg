@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   id="svg2"
+   version="1.1"
+   sodipodi:docname="high-badge.svg"
+   inkscape:version="1.2.2 (1:1.2.2+202212051552+b0a8486541)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#e5e5e5"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="3.4140625"
+     inkscape:cx="121.99542"
+     inkscape:cy="128"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4" />
+  <g
+     id="high-badge">
+    <circle
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       id="background-circle"
+       cx="128"
+       cy="128"
+       r="127.75" />
+    <path
+       id="Lm-cutout"
+       style="fill:#86be43;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 128 0 A 128 128 0 0 0 63 18.025391 L 63 158 C 63 172.51336 74.486635 184 89 184 L 167 184 C 181.51336 184 193 172.51336 193 158 L 193 93 C 193 85.666337 187.33365 80 180 80 C 172.66634 80 167 85.666337 167 93 L 167 158 L 141 158 L 141 93 C 141 85.666337 135.33365 80 128 80 C 120.66634 80 115 85.666337 115 93 L 115 158 L 89 158 L 89 93 C 89 71.614911 106.61491 54 128 54 C 137.9904 54 147.06683 57.949389 154 64.226562 C 160.93317 57.949389 170.00959 54 180 54 C 201.38508 54 219 71.614911 219 93 L 219 158 C 219 186.56476 195.56476 210 167 210 L 89 210 C 60.435229 210 37 186.56476 37 158 L 37 38.441406 A 128 128 0 0 0 0 128 A 128 128 0 0 0 128 256 A 128 128 0 0 0 256 128 A 128 128 0 0 0 128 0 z " />
+  </g>
+</svg>

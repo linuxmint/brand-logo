@@ -7,21 +7,39 @@
    viewBox="0 0 256 256"
    id="svg2"
    version="1.1"
+   sodipodi:docname="high-badge-src.svg"
+   inkscape:version="1.2.2 (1:1.2.2+202212051552+b0a8486541)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview260"
+     pagecolor="#e5e5e5"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="3.5234375"
+     inkscape:cx="122.46563"
+     inkscape:cy="128"
+     inkscape:current-layer="svg2" />
   <defs
      id="defs4" />
   <g
-     id="layer3">
+     id="high-badge">
     <circle
        style="fill:#86be43;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
-       id="path40"
+       id="background-circle"
        cx="128"
        cy="128"
        r="128" />
     <path
        style="color:#000000;fill:#505050;stroke-width:0;-inkscape-stroke:none"
        d="M 37.00001,8e-6 V 158.00001 c 0,28.56479 23.4352,52 52,52 h 78 c 28.56479,0 52,-23.43521 52,-52 v -65 c 0,-21.38511 -17.6149,-39 -39,-39 -9.99042,0 -19.06682,3.9489 -26,10.22608 -6.93318,-6.27718 -16.00959,-10.22608 -26,-10.22608 -21.38511,0 -39,17.61489 -39,39 v 65 h 26 v -65 c 0,-7.33367 5.66633,-13 13,-13 7.33366,0 13,5.66633 13,13 v 65 h 26 v -65 c 0,-7.33367 5.66633,-13 13,-13 7.33366,0 13,5.66633 13,13 v 65 c 0,14.51337 -11.48663,26 -26,26 h -78 c -14.51338,0 -26,-11.48663 -26,-26 V 8e-6 Z"
-       id="path4193" />
+       id="Lm" />
   </g>
 </svg>
